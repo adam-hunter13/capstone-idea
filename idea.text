@@ -1,0 +1,6 @@
+Natural Disaster Tracker
+    - utilize google maps api 
+    - utilize nasa api for data
+    - app requests users location 
+    - app displays pins on a map of the natural disasters actively happening or about to happening around them
+    - seporate pins into different categories 
